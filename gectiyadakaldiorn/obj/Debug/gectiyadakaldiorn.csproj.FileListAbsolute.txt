@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\bin\Debug\gectiyadakaldiorn.exe.config
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\bin\Debug\gectiyadakaldiorn.exe
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\bin\Debug\gectiyadakaldiorn.pdb
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.Form1.resources
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.Properties.Resources.resources
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.exe
+C:\Users\User\source\repos\gectiyadakaldiorn\gectiyadakaldiorn\obj\Debug\gectiyadakaldiorn.pdb
